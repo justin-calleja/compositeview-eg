@@ -1,0 +1,3 @@
+app/lib/*
+app/scripts/templates/jst/**/*
+dist

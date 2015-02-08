@@ -1,0 +1,22 @@
+{
+  "name": "compositeview-eg",
+  "version": "0.0.0",
+  "authors": [
+    "Justin Calleja <justin.calleja@ricston.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marionette": "~2.3.2",
+    "lodash": "~3.0.1",
+    "requirejs": "~2.1.15",
+    "almond": "~0.3.0"
+  }
+}
