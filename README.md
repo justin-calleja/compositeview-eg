@@ -1,1 +1,1 @@
-Repo for blog post at justincalleja.com (Marionette's CompositeView)
+Repo for [blog post](http://justincalleja.com) (Marionette's CompositeView)
